@@ -1,0 +1,21 @@
+PROBLEM STATEMENT :
+-------------------
+You are given a function printKDistanceNodes which takes in a root node of a binary tree, a start node and an integer K. Complete the function to print the value of all the nodes (one-per-line) which are a K distance from the given start node in sorted order. Distance can be upwards or downwards.
+
+SAMPLE INPUT : 
+--------------
+
+			1
+          /   \
+        2      3
+      /  \    /
+    4     5  8 
+
+SAMPLE OUTPUT :
+---------------
+
+NODE=2   K =1
+ANSWER : 1, 4, 5
+
+NODE=5   K =3
+ANSWER : 3  
