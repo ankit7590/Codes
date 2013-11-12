@@ -1,0 +1,10 @@
+TO RUN : 
+--------
+
+1. COMPILE FILES USING THE FOLLOWING COMMAND
+	
+	javac *.java
+
+2. EXECUTE USING THE FOLLOWING COMMAND
+	
+	java Main
